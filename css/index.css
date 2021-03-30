@@ -1,0 +1,51 @@
+.myPhoto img{
+    height: 150px;
+    width: 200px;
+    border-radius: 50%;
+}
+.container{
+    width: 940px;
+    display: flex;
+    justify-content: space-around;
+}
+.name h1{
+    margin: 0px;
+}
+.name{
+    margin-left: 30px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.information{
+    display: flex;
+    justify-content: center;
+}
+.about_me{
+    width: 940px;
+    display: flex;
+    justify-content: space-around;
+}
+.profile{
+    max-width: 300px;
+}
+.skills h2{
+    margin-left: 20px;
+}
+.contacts{
+    display: flex;
+    justify-content: center;
+}
+.education{
+    max-width: 500px;
+}
+.education h2{
+    margin-left: 25px;
+}
+.contact{
+    margin-left: 50px;
+}
+.contact h2{
+    margin-left: 25px;
+}
